@@ -1,0 +1,20 @@
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\bin\Debug\personal_week8-9.exe.config
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\bin\Debug\personal_week8-9.exe
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\bin\Debug\personal_week8-9.pdb
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.csprojAssemblyReference.cache
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\obj\Debug\personal_week8_9.Properties.Resources.resources
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.csproj.GenerateResource.cache
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.csproj.CoreCompileInputs.cache
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.exe
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.pdb
+C:\Users\zzzzz\source\repos\personal_week8-9\personal_week8-9\obj\Debug\personal_week8_9.Form.resources
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\bin\Debug\personal_week8-9.exe.config
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\bin\Debug\personal_week8-9.exe
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\bin\Debug\personal_week8-9.pdb
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.csprojAssemblyReference.cache
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\obj\Debug\personal_week8_9.Form.resources
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\obj\Debug\personal_week8_9.Properties.Resources.resources
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.csproj.GenerateResource.cache
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.exe
+C:\Users\Danil\Documents\Инфа колледж\personal_week8-9\personal_week8-9\obj\Debug\personal_week8-9.pdb
